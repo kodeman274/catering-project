@@ -1,0 +1,15 @@
+body {
+  background-image: url(bg/green.jpg);
+}
+h1 {
+  font-family: arial;
+  text-transform: uppercase;
+}
+p {
+  font-family: times new roman, serif;
+  font-size: 16px;
+}
+
+.project-text-inner {
+  border: 50px Double rgb(247, 245, 245);
+}
